@@ -1,2 +1,1 @@
-# weather-app
-Basic weather-app for React
+In this project, I aimed to make a simple weather project with react, using the open weather api. I aim to pull the weather from the region that the user enters instantly and output it with a visual emoji of the weather.
